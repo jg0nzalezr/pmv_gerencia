@@ -1,0 +1,42 @@
+name: pmv_gerencia
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.jpg
+    - assets/logochiquito.jpg
+    - assets/monserrate.jpg
+    - assets/museo.jpg
+    - assets/plaza.jpg
+    - assets/jardin.jpeg
+    - assets/burgerville.jpeg
+    - assets/fep.jpg
+    - assets/campin.jpg
+    - assets/criterion.jpg
+    - assets/karolg.jpg
+    - assets/mapa.jpg
+    - assets/tiquete.jpg
+    - assets/vap.jpg
+
+
